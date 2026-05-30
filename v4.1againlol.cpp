@@ -556,4 +556,5 @@ int main(){
             }
         }
     }while(choice1 != 3); 
+return 0;
 }   
